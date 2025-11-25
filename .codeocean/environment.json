@@ -10,20 +10,45 @@
 		"pip": {
 			"packages": [
 				{
-					"name": "ipykernel"
+					"name": "ipykernel",
+					"version": "7.1.0"
 				},
 				{
-					"name": "matplotlib"
+					"name": "matplotlib",
+					"version": "3.10.7"
 				},
 				{
-					"name": "pandas"
+					"name": "pandas",
+					"version": "2.3.3"
 				},
 				{
-					"name": "seaborn"
+					"name": "seaborn",
+					"version": "0.13.2"
 				}
 			],
 			"options": {},
 			"pre_install_options": {}
+		},
+		"vscode": {
+			"packages": [
+				{
+					"name": "ms-python.python",
+					"version": "2025.14.0"
+				},
+				{
+					"name": "ms-toolsai.jupyter",
+					"version": "2025.4.1"
+				},
+				{
+					"name": "reditorsupport.r",
+					"version": "2.8.6"
+				},
+				{
+					"name": "saoudrizwan.claude-dev",
+					"version": "3.35.1"
+				}
+			],
+			"version": "4.100.3"
 		}
 	}
 }
